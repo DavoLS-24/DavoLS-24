@@ -50,3 +50,7 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 | ![GitHub](https://skillicons.dev/icons?i=github) GitHub Pages | Publicación de sitios web estáticos directamente desde un repositorio. | Publiqué el sitio de *Ecuavóley en La Esperanza* para que cualquiera pueda verlo en línea, y lo usé también para publicar este perfil. |
 
 ## Contacto
+
+- 📧 Correo institucional: [leinsalt@espol.edu.ec](mailto:leinsalt@espol.edu.ec)
+- ✉️ Correo personal: [leinerds@hotmail.com](mailto:leinerds@hotmail.com)
+- 📸 Instagram: [@davo.24](https://www.instagram.com/davo.24/)
