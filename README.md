@@ -19,6 +19,15 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 
 ## Habilidades y tecnologías
 
+| Categoría | Tecnologías |
+|---|---|
+| Lenguajes | ![C](https://skillicons.dev/icons?i=c) C · ![Java](https://skillicons.dev/icons?i=java) Java · ![Python](https://skillicons.dev/icons?i=py) Python |
+| Desarrollo web | ![HTML](https://skillicons.dev/icons?i=html) HTML · ![CSS](https://skillicons.dev/icons?i=css) CSS |
+| Desarrollo móvil | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) Android Studio |
+| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) SQL (MySQL) |
+| Procesamiento de imágenes | 🛰️ Pix4Dmapper · 🗺️ QGIS |
+| Control de versiones | ![Git](https://skillicons.dev/icons?i=git) Git · ![GitHub](https://skillicons.dev/icons?i=github) GitHub |
+
 ## Proyectos destacados
 
 ## Contacto
