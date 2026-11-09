@@ -31,10 +31,23 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 | Control de versiones | ![Git](https://skillicons.dev/icons?i=git) Git · ![GitHub](https://skillicons.dev/icons?i=github) GitHub |
 
 ## Proyectos destacados
+### 🤖 Futuro Academy: Agente comercial con frenos
+**Descripción:** Agente conversacional de IA que capta, califica y educa prospectos 24/7 para el brazo educativo de una institución financiera, sin enviar comunicaciones ni cruzar límites regulados sin la aprobación de un humano. Desarrollado en equipo para Agentic Scale · Ecuador Tech Week 2026 (Track 1).
+**Mi rol:** Implementación del cálculo de prioridad (scoring), la lógica de enrutamiento y sus pruebas.
+**Tecnologías:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Funcionalidades principales:**
+- Atención y calificación de prospectos en todo momento.
+- Aprobación humana obligatoria antes de cualquier envío o acción regulada.
+- Traza auditable de cada decisión del agente.
+- Prioridad comercial calculada por código determinista, no por el modelo.
+
+🔗 [Repositorio](https://github.com/kelvin10457/hackaton_agentic_sales)
 ### ✈️ Gestión de Aeropuertos y Vuelos
 **Descripción:** Aplicación móvil que modela aeropuertos y rutas aéreas como un grafo y lo muestra de forma interactiva sobre un mapa mundial, para visualizar las conexiones entre vuelos. Proyecto en grupo de la materia Estructuras de Datos, ESPOL.
 **Tecnologías:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![PhotoView](https://img.shields.io/badge/PhotoView-555555?style=flat) ![AndroidSVG](https://img.shields.io/badge/AndroidSVG-555555?style=flat)
 
 **Funcionalidades principales:**
 - Representación de aeropuertos (vértices) y rutas (aristas) mediante grafos.
