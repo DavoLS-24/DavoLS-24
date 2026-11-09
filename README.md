@@ -31,5 +31,14 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 | Control de versiones | ![Git](https://skillicons.dev/icons?i=git) Git · ![GitHub](https://skillicons.dev/icons?i=github) GitHub |
 
 ## Proyectos destacados
+### ✈️ Gestión de Aeropuertos y Vuelos
+**Descripción:** Aplicación móvil que modela aeropuertos y rutas aéreas como un grafo y lo muestra de forma interactiva sobre un mapa mundial, para visualizar las conexiones entre vuelos. Proyecto en grupo de la materia Estructuras de Datos, ESPOL.
+**Tecnologías:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+**Funcionalidades principales:**
+- Representación de aeropuertos (vértices) y rutas (aristas) mediante grafos.
+- Visualización interactiva de las conexiones sobre un mapa mundial.
+
+🔗 [Repositorio](https://github.com/jossanchcald/ED_P3_Grupo06)
 ## Contacto
