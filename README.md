@@ -4,6 +4,8 @@ Estudiante de Ingeniería en Computación en la ESPOL, interesado en la ciberseg
 
 ## Sobre mí
 
+![Animación de programación en una pantalla](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk3NTFpMTZ0b2c5b3dva2hycGlnbDN6MG1zM3BrejNoZjdsOXZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+
 Soy estudiante de sexto semestre de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL), en Guayaquil, Ecuador. Me interesa la ciberseguridad, porque me motiva entender cómo funcionan los sistemas para protegerlos mejor, y la electrónica, donde disfruto la conexión entre el hardware y el software. En mi tiempo libre desarrollo aplicaciones móviles como hobby, una forma de probar ideas y aprender nuevas herramientas. Busco seguir creciendo en proyectos donde pueda combinar seguridad, hardware y desarrollo de software.
 
 ## Experiencia
