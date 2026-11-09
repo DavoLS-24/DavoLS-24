@@ -49,6 +49,12 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 | 💻 GitHub Codespaces | Entorno de desarrollo en la nube, directamente desde el navegador. | Me permitió trabajar en las prácticas del curso sin instalar herramientas en mi computadora. |
 | ![GitHub](https://skillicons.dev/icons?i=github) GitHub Pages | Publicación de sitios web estáticos directamente desde un repositorio. | Publiqué el sitio de *Ecuavóley en La Esperanza* para que cualquiera pueda verlo en línea, y lo usé también para publicar este perfil. |
 
+## Estadísticas en GitHub
+
+![Estadísticas de GitHub de DavoLS-24](https://github-readme-stats.vercel.app/api?username=DavoLS-24&show_icons=true&locale=es) ![Lenguajes más usados por DavoLS-24](https://github-readme-stats.vercel.app/api/top-langs/?username=DavoLS-24&layout=compact&locale=es)
+
+![Racha de contribuciones de DavoLS-24](https://streak-stats.demolab.com?user=DavoLS-24&locale=es)
+
 ## Contacto
 
 - 📧 Correo institucional: [leinsalt@espol.edu.ec](mailto:leinsalt@espol.edu.ec)
