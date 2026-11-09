@@ -8,6 +8,15 @@ Soy estudiante de sexto semestre de Ingeniería en Computación en la Escuela Su
 
 ## Experiencia
 
+### 🌱 Ayudante de investigación: Agricultura Climáticamente Inteligente
+**ESPOL**
+
+Proyecto de investigación que desarrolla un sistema integral de gestión agrícola para mejorar la sostenibilidad y la resiliencia de las fincas frente al impacto del cambio climático.
+
+**Mis aportes:**
+- Desarrollo de la página web del proyecto.
+- Procesamiento de imágenes RGB y multiespectrales.
+
 ## Habilidades y tecnologías
 
 ## Proyectos destacados
