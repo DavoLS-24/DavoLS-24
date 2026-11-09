@@ -51,7 +51,7 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 
 ## Estadísticas en GitHub
 
-![Estadísticas de GitHub de DavoLS-24](https://github-readme-stats.vercel.app/api?username=DavoLS-24&show_icons=true&locale=es) ![Lenguajes más usados por DavoLS-24](https://github-readme-stats.vercel.app/api/top-langs/?username=DavoLS-24&layout=compact&locale=es)
+![Estadísticas de GitHub de DavoLS-24](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavoLS-24&theme=default) ![Lenguajes por repositorio de DavoLS-24](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavoLS-24&theme=default)
 
 ![Racha de contribuciones de DavoLS-24](https://streak-stats.demolab.com?user=DavoLS-24&locale=es)
 
