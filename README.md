@@ -32,11 +32,61 @@ Proyecto de investigación que desarrolla un sistema integral de gestión agríc
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Enlaces |
-|---|---|---|---|
-| 🤖 **Futuro Academy: Agente comercial con frenos** | Agente conversacional de IA que capta, califica y educa prospectos 24/7 para una institución financiera, con aprobación humana obligatoria antes de cualquier envío y una traza auditable de cada decisión. Proyecto en equipo para Agentic Scale · Ecuador Tech Week 2026. **Mi rol:** cálculo de prioridad (scoring), lógica de enrutamiento y pruebas. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | [Repositorio](https://github.com/kelvin10457/hackaton_agentic_sales) |
-| ✈️ **Gestión de Aeropuertos y Vuelos** | Aplicación Android que modela aeropuertos y vuelos como un grafo sobre un mapa mundial con zoom. Calcula la ruta más corta con el algoritmo de Dijkstra y permite agregar o eliminar aeropuertos y vuelos. Proyecto en grupo de Estructuras de Datos, ESPOL. **Mi rol:** mapa interactivo, interfaz gráfica y reestructuración de clases. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![PhotoView](https://img.shields.io/badge/PhotoView-555555?style=flat) ![AndroidSVG](https://img.shields.io/badge/AndroidSVG-555555?style=flat) | [Repositorio](https://github.com/DavoLS-24/EDPROY) |
-| 🏐 **Ecuavóley en La Esperanza** | Sitio web responsive sobre la práctica del ecuavóley en el coliseo de La Esperanza (Quevedo), construido a partir de entrevistas y observación directa. Incluye estadísticas de la encuesta, video de un partido, mapa de ubicación y formulario de participación. Proyecto de Desarrollo de Aplicaciones Web y Móviles, ESPOL. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dopetrope HTML5 UP](https://img.shields.io/badge/Dopetrope%20%28HTML5%20UP%29-555555?style=flat) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white) | [Repositorio](https://github.com/DavoLS-24/Landing-Page-El-ecuav-ley-de-las-6) · [Demo](https://davols-24.github.io/Landing-Page-El-ecuav-ley-de-las-6/) |
+### 🤖 Futuro Academy: Agente comercial con frenos
+
+Agente conversacional de IA que capta, califica y educa prospectos 24/7 para el brazo educativo de una institución financiera, sin enviar comunicaciones ni cruzar límites regulados sin la aprobación de un humano. Proyecto en equipo para Agentic Scale · Ecuador Tech Week 2026 (Track 1).
+
+**Mi rol:** cálculo de prioridad (scoring), lógica de enrutamiento y pruebas.
+
+**Funcionalidades principales:**
+
+- Atención y calificación de prospectos en todo momento.
+- Aprobación humana obligatoria antes de cualquier envío o acción regulada.
+- Traza auditable de cada decisión del agente.
+- Prioridad comercial calculada por código determinista, no por el modelo.
+
+**Tecnologías:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+🔗 [Repositorio](https://github.com/kelvin10457/hackaton_agentic_sales)
+
+### ✈️ Gestión de Aeropuertos y Vuelos
+
+Aplicación Android que modela aeropuertos y vuelos como un grafo y lo muestra sobre un mapa mundial interactivo, para visualizar conexiones y calcular rutas entre ciudades. Proyecto en grupo de la materia Estructuras de Datos, ESPOL.
+
+**Mi rol:** mapa interactivo, interfaz gráfica y reestructuración de clases.
+
+**Funcionalidades principales:**
+
+- Grafo propio con aeropuertos como vértices y vuelos como aristas con peso.
+- Cálculo de la ruta más corta entre dos aeropuertos con el algoritmo de Dijkstra.
+- Agregar y eliminar aeropuertos y vuelos desde la aplicación.
+- Mapa mundial con zoom y vista de todas las rutas y estadísticas.
+
+**Tecnologías:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![PhotoView](https://img.shields.io/badge/PhotoView-555555?style=flat) ![AndroidSVG](https://img.shields.io/badge/AndroidSVG-555555?style=flat)
+
+🔗 [Repositorio](https://github.com/DavoLS-24/EDPROY)
+
+### 🏐 Ecuavóley en La Esperanza
+
+Sitio web responsive sobre la práctica del ecuavóley en el coliseo parroquial de La Esperanza (Quevedo, Ecuador), construido a partir de entrevistas y observación directa. Proyecto de la materia Desarrollo de Aplicaciones Web y Móviles, ESPOL.
+
+**Funcionalidades principales:**
+
+- Sitio de varias páginas: inicio, organización, resultados y participa.
+- Estadísticas de la encuesta y video de un partido real.
+- Mapa de ubicación del coliseo con Google Maps.
+- Formulario de participación para la comunidad.
+
+**Tecnologías:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dopetrope HTML5 UP](https://img.shields.io/badge/Dopetrope%20%28HTML5%20UP%29-555555?style=flat) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white)
+
+🔗 [Repositorio](https://github.com/DavoLS-24/Landing-Page-El-ecuav-ley-de-las-6) · 🌐 [Demo](https://davols-24.github.io/Landing-Page-El-ecuav-ley-de-las-6/)
+
 ## Lo que aprendí en Desarrollo de Aplicaciones Web y Móviles
 
 | Herramienta | Qué aprendí | Cómo me ayudó en mis proyectos |
